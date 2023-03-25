@@ -38,6 +38,12 @@ google search consol을 이용해서 google에 노출시키는 방법은 [이전
 
 <img src="../post_images/naver_sitemap.png" width="1000px"  title="table1" alt=""/>  
 
+이다음 RSS 등록도 하고자 하는데 다음 코드를 레포토지에 `feed.xml`로 만들어서 제출하면 된다.
+[feed.xml](https://github.com/yangchanghee2251/yangchanghee2251.github.io/blob/master/feed.xml) 여기서 파일을 확인해보면 된다!
+
+
+<img src="../post_images/naver_feed.png" width="1000px"  title="table1" alt=""/>  
+드디어 끝낫다!
 
 ## 후기
-생각보다 간단했고 만들기 쉬웠다 ㅎㅎ
+생각보다 할게 많앗다. :)
