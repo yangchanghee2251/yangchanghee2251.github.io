@@ -4,6 +4,7 @@ title: "jekyll 우분투 서버에서 돌리는 법 + Issue"
 author_profile: true
 categories:
   - jekyll
+toc_label: "목차"
 toc: true
 toc_sticky: true
 sidebar:

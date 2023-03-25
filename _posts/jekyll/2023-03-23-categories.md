@@ -4,6 +4,7 @@ title: "블로그 카테고리 & 카테고리 리스트 & toc 만들기"
 author_profile: true
 categories:
   - jekyll
+toc_label: "목차"
 toc: true
 toc_sticky: true
 sidebar:

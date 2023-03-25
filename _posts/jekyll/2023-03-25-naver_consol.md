@@ -4,6 +4,7 @@ title: "Github 블로그 naver에 노출시키기"
 author_profile: true
 categories:
   - jekyll
+toc_label: "목차"
 toc: true
 toc_sticky: true
 sidebar:

@@ -3,6 +3,7 @@ layout: single
 title: About
 author_profile: true
 permalink: /about
+toc_label: "목차"
 toc: true
 toc_sticky: true
 sidebar:

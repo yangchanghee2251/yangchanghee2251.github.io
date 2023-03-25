@@ -4,6 +4,7 @@ title: "google에 내 URL 노출 시키기 (Google Search Consol) github page, j
 author_profile: true
 categories:
   - jekyll
+toc_label: "목차"
 toc: true
 toc_sticky: true
 sidebar:

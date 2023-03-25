@@ -4,6 +4,7 @@ title: "minimal mistake Utterances 리눅스 서버에서 댓글 생성 안될 �
 author_profile: true
 categories:
   - jekyll
+toc_label: "목차"
 toc: true
 toc_sticky: true
 sidebar:
