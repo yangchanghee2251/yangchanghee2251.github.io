@@ -20,6 +20,11 @@ sidebar-category:
       - title: "UVI Study"
         url: "/uvi_study"
         category: "uvi_study"
+  - title: Employment
+    children:
+      - title: "naver"
+        url: "/naver"
+        category: "naver"
   - title: Server
     children:
       - title: "Ubuntu"

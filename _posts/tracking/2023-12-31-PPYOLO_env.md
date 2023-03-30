@@ -47,4 +47,4 @@ pip3 install -v -e .  # or  python3 setup.py develop
 ## mmyolo 사용하는 방법 (바이두 아이디 없는 경우) [실험 환경]
 OS는 Linux 20.04 LTS에 GPU는 RTX 3090 1대이다. mmyolo는 cuda 11.3로 실험해야 하고 아나콘다 가상환경으로 진행할 예정이다.  
 대충 pytorch code github에서 확인해본 결과 python이 3.8이여야 되서 python은 3.8로 해볼 예정이다.
-cuda 버젼 바꾸는 방법
+cuda 버젼 바꾸는 방법은 [여기]()를 확인하면 된다.
