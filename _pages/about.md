@@ -17,7 +17,6 @@ sidebar:
 * 2019 ~ 2022 ICMLab (Dankook Lab) 
 * 2022 ~ M.S. degree in electronics engineering from Sogang University.
 * 2022 ~ VDSLab (Sogang Lab) 
-* 2022 second LGE Members (LG Electronics CTO scholarship student)
 
 ## Project
 * Emotion detection (2021 ~ 2022)  
