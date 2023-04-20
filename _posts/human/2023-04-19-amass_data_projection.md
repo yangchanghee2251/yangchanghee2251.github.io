@@ -410,3 +410,7 @@ for num,i in enumerate(test):
     plt.savefig('./amass_fig/savefig_{}.jpg'.format(str(num).zfill(3)))
     plt.cla()
 ```
+
+## Next
+다음에 진행할 연구는 SMPLH의 vertex정보를 뽑아서 regressor를 돌려 eyes, nose, ear pose를 뽑아볼 계획이다.  
+[여기](https://yangchanghee2251.github.io/human/amass_data_projection2/)에 다음 연구가 있다.
