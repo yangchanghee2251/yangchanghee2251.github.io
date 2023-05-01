@@ -20,6 +20,12 @@ sidebar-category:
       - title: "UVI Study"
         url: "/uvi_study"
         category: "uvi_study"
+      - title: "Dataset Distillation"
+        url: "/dataset_distillation"
+        category: "dataset_distillation"
+      - title: "Diffusion"
+        url: "/diffusion"
+        category: "diffusion"
   - title: Employment
     children:
       - title: "naver"
