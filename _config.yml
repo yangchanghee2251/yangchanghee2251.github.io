@@ -116,7 +116,7 @@ author:
   name             : "OriRaccon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Gangdong-gu, Seoul, Republic of Korea	"
+  location         : "Gangdong-gu,\n Seoul,\n Republic of Korea	"
   email            : "djdjskskalal@gmail.com"
   links:
     - label: "Email"
