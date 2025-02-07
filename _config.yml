@@ -21,7 +21,7 @@ title                    : "OriRacconn의 Studyroom"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "OriRaccon"
-description              : "An amazing website."
+description              : "안녕하세요. oriraccoon입니다."
 url                      : "https://oriraccoon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
