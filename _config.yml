@@ -119,7 +119,7 @@ author:
   location         : "Gangdong-gu, Seoul, Republic of Korea	"
   email            : "djdjskskalal@gmail.com"
   links:
-    - label: "Email : djdjskskalal@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:djdjskskalal@gmail.com"
     - label: "Website"
@@ -136,7 +136,7 @@ author:
       url: "https://github.com/oriraccoon"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/oriraccoon"
+      url: "https://instagram.com/ori_raccoon"
 
 # Site Footer
 footer:
